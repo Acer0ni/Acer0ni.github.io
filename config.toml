@@ -1,4 +1,4 @@
 baseURL = 'https://aceroni.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Larry Flint | Aceroni'
 theme = "hugo-theme-terminal"
