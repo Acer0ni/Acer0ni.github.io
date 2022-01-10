@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
-draft = true
+draft = false
 +++
 
 ![db-icon](/db-picture.png)This is a database for a user-generated chat forum that is ready to be paired with a front-end UI. It uses the Django-Ninja framework, Postgres, and cookie based authentication. Intended for use as a technology forum but is suitable for multiple industries.
