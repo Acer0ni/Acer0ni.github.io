@@ -12,7 +12,7 @@ readingTime = false
 draft = false
 +++
 
-![BB-pic](/bb-pic.png)
+![BB-pic](/project-pictures/bb-pic.png)
 
 Budgetbook is a minimalist budget tracking app. The user starts by inputting their monthly income, then adds expenses with dollar values which are automatically subtracted from the monthly total. Expenses can be edited and deleted, with the user’s remaining monthly balance updating automatically to match.
 

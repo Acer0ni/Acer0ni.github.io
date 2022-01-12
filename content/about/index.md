@@ -22,10 +22,11 @@ ram: Teamgroup T-force Vulcan Z 16GB @ 2666 mhz
 
 storage: 500gb nvme ssd 2x 8TB HDDs 5400RPM
 
-psu: Rosewill 700W
+PSU: Rosewill 700W
 
 cooler: stock Intel
 
 mobo: MSI  B365
 
-
+|[![twitter](/social-icons/twitterlogo50.png)](https://twitter.com/0xaceroni)|[![linkdin](/social-icons/linkedin-logo.png)](https://www.linkedin.com/in/ljflint/)|
+|-|-|
