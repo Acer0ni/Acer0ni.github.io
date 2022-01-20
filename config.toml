@@ -6,7 +6,7 @@ paginate = 5
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+  contentTypeName = "welcome/index.md"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
@@ -69,7 +69,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Aceroni"
-      logoHomeLink = "/"
+      logoHomeLink = "/welcome"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -80,3 +80,11 @@ paginate = 5
         identifier = "Contact Me"
         name = "Contact Me"
         url="/contact"
+      [[languages.en.menu.main]]
+        identifier = "project"
+        name = "Projects"
+        url="/projects"
+      [[languages.en.menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url="/posts"
