@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aceroni</title><link>/</link><description>Recent content on Aceroni</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Jan 2022 12:32:31 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Budget App</title><link>/posts/2022/budget-app/</link><pubDate>Fri, 07 Jan 2022 12:32:31 -0800</pubDate><guid>/posts/2022/budget-app/</guid><description>Budgetbook is a minimalist budget tracking app. The user starts by inputting their monthly income, then adds expenses with dollar values which are automatically subtracted from the monthly total. Expenses can be edited and deleted, with the user’s remaining monthly balance updating automatically to match.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Aceroni</title><link>/</link><description>Recent content on Aceroni</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 07 Jan 2022 12:32:31 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>/contact/</link><pubDate>Thu, 20 Jan 2022 10:16:22 -0800</pubDate><guid>/contact/</guid><description> var submitted=false; Name* Email* Subject* Message Send</description><content>&lt;pre tabindex="0">&lt;code>
+&lt;script type="text/javascript">var submitted=false;&lt;/script>
+&lt;iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
+onload="if(submitted) {window.location='/thankyou';}">&lt;/iframe>
+&lt;form action="https://docs.google.com/forms/d/e/1FAIpQLSebdmFgQL_9L2lI1fGKoQmrji89NiJ6lVlKDmeUAWUMMTmmxw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true">
+&lt;label>Name*&lt;/label>
+&lt;input type="text" placeholder="Name*" class="form-input" name="entry.417776895" required>
+&lt;label>Email*&lt;/label>
+&lt;input type="email" placeholder="Email address*" class="form-input" name="entry.400926683" required>
+&lt;label>Subject*&lt;/label>
+&lt;input type="text" placeholder="Subject*" class="form-input" name="entry.2105508016" required>
+&lt;label>Message&lt;/label>
+&lt;textarea rows="5" placeholder="Message" class="form-input" name="entry.1173464833" >&lt;/textarea>
+&lt;button type="submit">Send&lt;/button>
+&lt;/form>
+&lt;/code>&lt;/pre>&lt;!-- raw HTML omitted --></content></item><item><title>Budget App</title><link>/posts/2022/budget-app/</link><pubDate>Fri, 07 Jan 2022 12:32:31 -0800</pubDate><guid>/posts/2022/budget-app/</guid><description>Budgetbook is a minimalist budget tracking app. The user starts by inputting their monthly income, then adds expenses with dollar values which are automatically subtracted from the monthly total. Expenses can be edited and deleted, with the user’s remaining monthly balance updating automatically to match.
 Budget book was our first time working with other developers on a major project. We set off to make a full Stack budgeting application that took in your monthly income and expenses, and told you how much remaining and let you set goals to work for i.</description><content>&lt;p>&lt;img src="/project-pictures/bb-pic.png" alt="BB-pic">&lt;/p>
 &lt;p>Budgetbook is a minimalist budget tracking app. The user starts by inputting their monthly income, then adds expenses with dollar values which are automatically subtracted from the monthly total. Expenses can be edited and deleted, with the user’s remaining monthly balance updating automatically to match.&lt;/p>
 &lt;p>Budget book was our first time working with other developers on a major project. We set off to make a full Stack budgeting application that took in your monthly income and expenses, and told you how much remaining and let you set goals to work for i.e vacations.&lt;/p>
