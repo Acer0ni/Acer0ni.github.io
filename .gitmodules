@@ -4,3 +4,9 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/hugo-theme-shell"]
+	path = themes/hugo-theme-shell
+	url = https://github.com/Yukuro/hugo-theme-shell.git
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
