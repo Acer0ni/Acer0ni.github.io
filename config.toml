@@ -76,3 +76,7 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "Contact Me"
+        name = "Contact Me"
+        url="/contact"
