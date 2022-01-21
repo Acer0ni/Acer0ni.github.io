@@ -3,7 +3,7 @@ title: "Contact"
 date: 2022-01-20T10:16:22-08:00
 draft: false
 ---
-````
+
 {{<rawhtml>}}
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
@@ -26,11 +26,12 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
    <button type="submit">Send</button>
 </form>
-{{</rawhtml>}}
-````
-
-
 <link rel="stylesheet" href="/css/form.css">
+{{</rawhtml>}}
+
+
+
+
 
 
 
