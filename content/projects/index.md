@@ -11,7 +11,7 @@ showFullContent = false
 readingTime = true
 draft = false
 +++
-## forum api
+## Forum api
 ![db-icon](/project-pictures/db-picture.png)This is a database for a user-generated chat forum that is ready to be paired with a front-end UI. It uses the Django-Ninja framework, Postgres, and cookie based authentication. Intended for use as a technology forum, but is suitable for multiple industries.
 
 This project started off as a full stack app, intending to be my capstone project for my bootcamp. It was meant to be a technology forum for me and my cohorts to compile our resources. We had five days to complete this project.
@@ -46,3 +46,19 @@ This project really taught me the importance of having a solid design in both yo
 [Github repo Frontend](https://github.com/Team-formerly-known-as/budget-book-frontend)
 
 [live site](https://team-formerly-known-as.github.io/budget-book-frontend/)
+
+## Wait and See
+
+![waitnsee](/project-pictures/waitnsee.png)
+
+The goal of this project was to create a classic “idle” game where the player’s gold level increases at a set rate, and can be used to purchase periodic upgrades for a character. 
+
+This was one of my first React projects and it was a tremendous learning experience. There were a multitude of features that I had planned on including, but it became apparent very quickly that I had misjudged the time it would take to implement everything. 
+
+I was able to build a functioning game that has multiple character attributes that can be “trained” to level up, and creates a custom avatar based off of the player’s chosen username. The gold system works as planned, increasing at a steady rate. 
+
+The major blocker here was bug-fixing the gold increment system. It was very difficult to get the gold amount to increase at a set rate, and this took up a lot of development time, leading to multiple features being dropped. Features that I plan on implementing in a future update include a Shop and Equipment page, rudimentary turn-based combat, and a fully functioning database to store each player’s unique character statistics.
+
+[Github repo](https://github.com/Acer0ni/idle-game)
+
+[live site](https://aceroni.com/idle-game)

@@ -28,10 +28,3 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
 </form>
 <link rel="stylesheet" href="/css/form.css">
 {{</rawhtml>}}
-
-
-
-
-
-
-
