@@ -43,7 +43,7 @@ paginate = 5
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
-
+  enableThemeToggle = true
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
@@ -61,3 +61,21 @@ paginate = 5
     identifier = "projects"
     name       = "Projects"
     url        = "/projects"
+  [[menu.main]]
+    identifier = "resume"
+    name       = "Resume"
+    url        = "https://docs.google.com/document/d/1CsrUhyrnfOcZEshSfjhx3ELhx7v1sbzUzEc43MqNw84/edit?usp=sharing"
+
+    # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/0xAceroni"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/acer0ni"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/ljflint/"
+    
