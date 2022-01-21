@@ -10,7 +10,12 @@ From that first simple lesson, family has played a huge role in my progression a
 
 I love the idea of using my skills as a programmer to build technologies that improve the lives of the people around me. One example of this is a project I worked on in college that utilized  BCI(Brain Computer Interfacing), and it has been a lifelong goal of mine to increase the accessibility of computers for everyone.
 
-Currently, I am in the planning stage of a paper crypto trading site.
+As a Developer I chase that high from solving that bug. I prefer to work with the complex logic of the backend, than trying to make things look nice on the front end. I am currently playing with Django-Ninja and absolutely loving it, and want to use it for everything I'm writing for personal use.
+
+Technologies I am currently using: Django, Django-Ninja, Mongoose, Python, Javascript, Postgres
+Technologies next on my list to look at: TypeScript, Ruby, Pygame
+
+Currently, I am in the planning stage of a paper crypto trading site. (I'm hoping my team will let me talk them into using a Django-Ninja framework)
 
 PC Spec:
 
