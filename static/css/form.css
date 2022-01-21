@@ -2,6 +2,10 @@
 
 form { max-width:420px; margin: auto; }
 
+#contactbutton {
+    background:black;
+}
+
 .form-input {
 color:white;
 font-family: Helvetica, Arial, sans-serif;

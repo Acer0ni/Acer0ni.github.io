@@ -24,7 +24,7 @@ onload="if(submitted) {window.location='/thankyou';}"></iframe>
    <label>Message</label>
         <textarea rows="5" placeholder="Message" class="form-input" name="entry.1173464833" ></textarea>
 
-   <button type="submit">Send</button>
+   <button id="contactbutton" type="submit">Send</button>
 </form>
 <link rel="stylesheet" href="/css/form.css">
 {{</rawhtml>}}
