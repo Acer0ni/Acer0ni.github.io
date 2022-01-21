@@ -4,6 +4,7 @@ theme = "hello-friend-ng"
 paginate = 5
 
 [params]
+  enableThemeToggle = true
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
@@ -43,7 +44,7 @@ paginate = 5
     #
     # path = "/img/your-example-logo.svg"
     # alt = "Your example logo alt text"
-  enableThemeToggle = true
+
   # And you can even create generic menu
   [[menu.main]]
     identifier = "blog"
