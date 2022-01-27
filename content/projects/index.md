@@ -45,7 +45,7 @@ This project really taught me the importance of having a solid design in both yo
 
 [Github repo Frontend](https://github.com/Team-formerly-known-as/budget-book-frontend)
 
-[live site](https://team-formerly-known-as.github.io/budget-book-frontend/)
+[Live site](https://team-formerly-known-as.github.io/budget-book-frontend/)
 
 ## Wait and See
 
@@ -61,4 +61,4 @@ The major blocker here was bug-fixing the gold increment system. It was very dif
 
 [Github repo](https://github.com/Acer0ni/idle-game)
 
-[live site](https://aceroni.com/idle-game)
+[Live site](https://aceroni.com/idle-game)
