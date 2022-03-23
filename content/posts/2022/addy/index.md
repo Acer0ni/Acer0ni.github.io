@@ -1,5 +1,5 @@
 +++
-title = "Index"
+title = "Addy"
 date = "2022-03-22T15:25:33-07:00"
 author = "Larry Flint"
 authorTwitter = "0xaceroni" #do not include @
