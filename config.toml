@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend-ng"
-paginate = 5
+paginate = 10
 
 [params]
   enableThemeToggle = true
