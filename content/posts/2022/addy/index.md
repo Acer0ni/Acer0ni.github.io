@@ -1,5 +1,5 @@
 +++
-title = "Addy"
+title = "Meet Addy"
 date = "2022-03-22T15:25:33-07:00"
 author = "Larry Flint"
 authorTwitter = "0xaceroni" #do not include @
@@ -11,8 +11,6 @@ showFullContent = false
 readingTime = true
 draft=false
 +++
-
-# Meet Addy
 
 ![addy-help](/project-pictures/addy-help.png)
 
@@ -30,4 +28,4 @@ Addy doesn’t have a central theme as she really was meant to be a personal pro
 
 If you are interested in seeing Addy in action, I have set up a [discord server](https://discord.gg/a5EXHbGwzH) for you to try. The browser version of discord doesn't require you to log in.
 
-[Github repo](https://github.com/Acer0ni/Addy-the-disc-bot)for you to try, the browser version of discord doesn’t require you to log in.
+[Github repo](https://github.com/Acer0ni/Addy-the-disc-bot) for you to try, the browser version of discord doesn’t require you to log in.
