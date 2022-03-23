@@ -1,7 +1,35 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Larry Flint</title><link>/posts/</link><description>Recent content in Posts on Larry Flint</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Tue, 22 Mar 2022 15:25:33 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Meet Addy</title><link>/posts/2022/addy/</link><pubDate>Tue, 22 Mar 2022 15:25:33 -0700</pubDate><guid>/posts/2022/addy/</guid><description>I started this project as a way to break out of the rut I found myself in during the planning phase for a much larger app. With no concrete intentions, other than exploring a few different APIs and building something cool, I started writing, researching, experimenting, and now I’m extremely happy to present the result of this endeavour: Addy the Discord Bot.
-Addy doesn’t have a central theme as she really was meant to be a personal project, thus each of her commands came about simply from asking myself “Wouldn’t it be cool if…?</description><content type="html"><![CDATA[<p><img src="/project-pictures/addy-help.png" alt="addy-help"></p>
-<p>I started this project as a way to break out of the rut I found myself in during the planning phase for a much larger app. With no concrete intentions, other than exploring a few different APIs and building something cool, I started writing, researching, experimenting, and now I’m extremely happy to present the result of this endeavour: Addy the Discord Bot.</p>
-<p>Addy doesn’t have a central theme as she really was meant to be a personal project, thus each of her commands came about simply from asking myself “Wouldn’t it be cool if…?”</p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Larry Flint</title><link>/posts/</link><description>Recent content in Posts on Larry Flint</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Tue, 22 Mar 2022 15:25:33 -0700</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Meet Addy</title><link>/posts/2022/addy/</link><pubDate>Tue, 22 Mar 2022 15:25:33 -0700</pubDate><guid>/posts/2022/addy/</guid><description>I started this project as a way to break out of the rut I found myself in during the planning phase for a much larger app. With no concrete intentions other than exploring a few different APIs and building something cool, I started writing, researching, experimenting, and now I’m extremely happy to present the result of this endeavour: Addy the Discord Bot.
+During my exploration with Addy there have been many hurdles and many lessons learned.</description><content type="html"><![CDATA[<p><img src="/project-pictures/addy-help.png" alt="addy-help"></p>
+<p>I started this project as a way to break out of the rut I found myself in during the planning phase for a much larger app. With no concrete intentions other than exploring a few different APIs and building something cool, I started writing, researching, experimenting, and now I’m extremely happy to present the result of this endeavour: Addy the Discord Bot.</p>
+<p>During my exploration with Addy there have been many hurdles and many lessons learned.</p>
+<p>Here are some of the insights from the journey so far:</p>
+<ul>
+<li>
+<p>How to handle third party APIs with less than stellar documentation and design</p>
+</li>
+<li>
+<p>How to save data without making a database</p>
+</li>
+<li>
+<p>The python requests database, and how to handle it&rsquo;s response object</p>
+</li>
+<li>
+<p>Explored Python&rsquo;s dictionary and it&rsquo;s functions</p>
+</li>
+</ul>
+<p>Addy doesn’t have a central theme as she really was meant to be a personal project, thus each of her commands came about simply from asking myself “Wouldn’t it be cool if…?” Here are some of the things she can do now:</p>
+<ul>
+<li>
+<p>Look up a player in Runescape3</p>
+</li>
+<li>
+<p>Create and add to a watch2gether room for you and your friends</p>
+</li>
+<li>
+<p>Offer a word of encouragement or tell you a quote from Brooklyn 99</p>
+</li>
+</ul>
+<p>Of course every new feature sparks ideas for other improvements and the list keeps growing, but here are the additions I would like to make in the near future:</p>
 <ul>
 <li>
 <p>A backend to complement her, and allow to me save data more reliably.</p>
@@ -16,8 +44,8 @@ Addy doesn’t have a central theme as she really was meant to be a personal pro
 <p>If you have a cool idea for Addy, contact me and let me know!</p>
 </li>
 </ul>
-<p>If you are interested in seeing Addy in action, I have set up a <a href="https://discord.gg/a5EXHbGwzH">discord server</a> for you to try. The browser version of discord doesn&rsquo;t require you to log in.</p>
-<p><a href="https://github.com/Acer0ni/Addy-the-disc-bot">Github repo</a> for you to try, the browser version of discord doesn’t require you to log in.</p>
+<p>If you are interested in seeing Addy in action, I have set up a <a href="https://discord.gg/a5EXHbGwzH">discord server</a> for you to try. The browser version of discord doesn&rsquo;t require you to log in. Jump right in and type !help to see all of her commands. a more in depth explanation can be found <a href="https://github.com/Acer0ni/Addy-the-disc-bot/blob/main/README.md">here.</a></p>
+<p><a href="https://github.com/Acer0ni/Addy-the-disc-bot">Github repo</a></p>
 ]]></content></item><item><title>Budget App</title><link>/posts/2022/budget-app/</link><pubDate>Fri, 07 Jan 2022 12:32:31 -0800</pubDate><guid>/posts/2022/budget-app/</guid><description>Budgetbook is a minimalist budget tracking app. The user starts by inputting their monthly income, then adds expenses with dollar values which are automatically subtracted from the monthly total. Expenses can be edited and deleted, with the user’s remaining monthly balance updating automatically to match.
 Budget book was our first time working with other developers on a major project. We set off to make a full Stack budgeting application that took in your monthly income and expenses, and told you how much remaining and let you set goals to work for i.</description><content type="html"><![CDATA[<p><img src="/project-pictures/bb-pic.png" alt="BB-pic"></p>
 <p>Budgetbook is a minimalist budget tracking app. The user starts by inputting their monthly income, then adds expenses with dollar values which are automatically subtracted from the monthly total. Expenses can be edited and deleted, with the user’s remaining monthly balance updating automatically to match.</p>
