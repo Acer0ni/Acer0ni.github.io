@@ -2,7 +2,7 @@
 During my exploration with Addy there have been many hurdles and many lessons learned.</description><content type="html"><![CDATA[<p><img src="/project-pictures/addy-help.png" alt="addy-help"></p>
 <p>I started this project as a way to break out of the rut I found myself in during the planning phase for a much larger app. With no concrete intentions other than exploring a few different APIs and building something cool, I started writing, researching, experimenting, and now I’m extremely happy to present the result of this endeavour: Addy the Discord Bot.</p>
 <p>During my exploration with Addy there have been many hurdles and many lessons learned.</p>
-<p>Here are some of the insights from the journey so far:</p>
+<p>Here are some of the things I have learned from the journey so far:</p>
 <ul>
 <li>
 <p>How to handle third party APIs with less than stellar documentation and design</p>
@@ -11,7 +11,7 @@ During my exploration with Addy there have been many hurdles and many lessons le
 <p>How to save data without making a database</p>
 </li>
 <li>
-<p>The python requests database, and how to handle it&rsquo;s response object</p>
+<p>The python requests library, and how to handle it&rsquo;s response object</p>
 </li>
 <li>
 <p>Explored Python&rsquo;s dictionary and it&rsquo;s functions</p>
