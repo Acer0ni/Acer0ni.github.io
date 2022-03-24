@@ -18,13 +18,13 @@ I started this project as a way to break out of the rut I found myself in during
 
 During my exploration with Addy there have been many hurdles and many lessons learned.
 
-Here are some of the insights from the journey so far:
+Here are some of the things I have learned from the journey so far:
 
 - How to handle third party APIs with less than stellar documentation and design
 
 - How to save data without making a database
 
-- The python requests database, and how to handle it's response object
+- The python requests library, and how to handle it's response object
 
 - Explored Python's dictionary and it's functions
 
