@@ -4,12 +4,10 @@ date = "2022-07-07T12:35:47-07:00"
 author = "Larry Flint"
 authorTwitter = "0xaceroni" #do not include @
 cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
+tags = ["django", "pygame","python","postgres"]
 showFullContent = false
 readingTime = true
-draft=true
+draft=false
 +++
 
 ![Imgur](https://i.imgur.com/7L395bz.png)
