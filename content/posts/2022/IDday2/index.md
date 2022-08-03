@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
-draft=true
+draft=false
 +++
 
 Today I started late due to a doctor's appointment in the morning that ended up taking about half of the time that I would prefer to be working so I skipped codesignal today and jumped to my next course as soon as I got home. Today I took [Managing Google Workspace](https://www.cloudskillsboost.google/course_templates/92). It followed the same format as the last one: an intro video to introduce the section, a couple of guided assignments followed by a quiz to ensure you understood it. Today was a bit of a struggle because the course is slightly outdated and google has moved or renamed elements but Google Workspace is set up very logically. Once I realized that I was following the wrong instructions it was not usually hard to explore around and find where they moved the setting I was looking for.
