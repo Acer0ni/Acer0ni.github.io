@@ -1,5 +1,5 @@
 +++
-title = "Index"
+title = "Google Workspace Security"
 date = "2022-08-03T13:45:18-07:00"
 author = "Larry Flint"
 authorTwitter = "0xaceroni" #do not include @
