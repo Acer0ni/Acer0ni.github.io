@@ -1,5 +1,5 @@
 +++
-title = "Okta Basics Curriculum for Workforce Identity"
+title = "Okta Basics Curriculum for Workforce Identity day one"
 date = "2022-08-08T17:41:22-07:00"
 author = "Larry Flint"
 authorTwitter = "0xaceroni" #do not include @
