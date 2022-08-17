@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
-draft=true
+draft=false
 +++
 
 So today is kinda a twofer as there was no blog yesterday due to a nasty finger cut. The courses I took were [Gmail](https://www.cloudskillsboost.google/course_templates/200), [Google Calendar](https://www.cloudskillsboost.google/course_templates/201), [Google Docs](https://www.cloudskillsboost.google/course_templates/195) and [Google Drive](https://www.cloudskillsboost.google/course_templates/199). The course itself was formatted with a few videos followed by exercises following what the videos talked about. It was broken up into sections by quizzes, then to top it off at the end there is a final challenge that goes over everything you have learned about.
