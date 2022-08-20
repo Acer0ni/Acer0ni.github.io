@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
-draft=true
+draft=false
 +++
 
 Today we continued on our google suite adventures by taking two courses,[ Google Meet and Google Chat](https://www.cloudskillsboost.google/course_templates/198) and [Google Sheets - Advanced Topics](https://www.cloudskillsboost.google/course_templates/293). They both followed what I had dubbed the google suite format. Videos with small exercises, a quiz periodically, and at the end a small capstone project.
