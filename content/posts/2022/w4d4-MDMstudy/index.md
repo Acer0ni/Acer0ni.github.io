@@ -9,7 +9,7 @@ keywords = ["", ""]
 description = ""
 showFullContent = false
 readingTime = true
-draft=true
+draft=false
 +++
 
 My brain felt like it was trying to come out of my skull all day today. I assumed it was because my body was experiencing what it was like to be without caffeine for the first time in fifteen years, but evolved into a full-grown migraine by the time my coffee was brewed and in my cup. So, my very foggy morning started with [Sort by Height
