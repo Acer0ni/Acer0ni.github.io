@@ -1,5 +1,5 @@
 +++
-title = "Antisyphon's SOC Core Skills day two"
+title = "Antisyphon's SOC Core Skills day three"
 date = "2022-09-14T16:07:37-07:00"
 author = "Larry Flint"
 authorTwitter = "0xaceroni" #do not include @
