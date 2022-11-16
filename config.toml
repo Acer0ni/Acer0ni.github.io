@@ -65,7 +65,7 @@ paginate = 10
   [[menu.main]]
     identifier = "resume"
     name       = "Resume"
-    url        = "https://docs.google.com/document/d/1CsrUhyrnfOcZEshSfjhx3ELhx7v1sbzUzEc43MqNw84/edit?usp=sharing"
+    url        = "https://resume.creddle.io/resume/514wmngpxgf"
 
     # Social icons
   [[params.social]]
